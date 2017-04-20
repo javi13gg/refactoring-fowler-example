@@ -3,9 +3,9 @@ package ubu.gii.dass.refactoring;
 /**
 * Tema  Refactorizaciones 
 *
-* Ejemplo de aplicaciï¿½n de refactorizaciones. Actualizado para colecciones genï¿½ricas de java 1.5
+* Ejemplo de aplicacion de refactorizaciones. Actualizado para colecciones genï¿½ricas de java 1.5
 *
-* @author M. Fowler y <A HREF="mailto:clopezno@ubu.es">Carlos Lï¿½pez</A>
+* @author M. Fowler y Diego Martín
 * @version 1.1
 * @see java.io.File
 *
