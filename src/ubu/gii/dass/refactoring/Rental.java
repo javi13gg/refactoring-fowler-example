@@ -48,7 +48,7 @@ public class Rental {
 		return result;
 	}
 
-	int getFrecuentRenderPoints() {
+	public int getFrecuentRenderPoints() {
 		int frequentRenterPoints = 0;
 		frequentRenterPoints++;
 		
